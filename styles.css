@@ -9,7 +9,7 @@ header{
     background-image: url("img/hero.jpg");
     height: 200px;
     background-size: cover;
-    color:orangered;
+    color:whitesmoke;
     border: 5px solid white;
     line-height: 100px;
     text-align: center;
@@ -90,7 +90,7 @@ nav a:active{
     color: blue;
 }
 h2{
-    color: green;
+    color: orangered;
     text-align: center;
 }
 #confirmation-h2{
