@@ -7,12 +7,11 @@ body{
 }
 header{
     background-image: url("img/hero.jpg");
-    height: 300px;
+    height: 200px;
     background-size: cover;
     color:orangered;
-    text-shadow: whitesmoke 20px;
-    border: 5px dashed white;
-    line-height: 200px;
+    border: 5px solid white;
+    line-height: 100px;
     text-align: center;
     font-size: 30px;
 }
