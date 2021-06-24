@@ -81,7 +81,7 @@ nav a:active{
 .thumbnail-container{
     width: 140px;
     margin: 5px;
-    background-color: orange;
+    background-color: #FF9B71;
     opacity: 0.8;
     float: left;
 }
